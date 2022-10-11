@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotCrab", "dotCrab\dotCrab.csproj", "{F42BC472-AE07-4357-84D9-6D0F4F1CC496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotCrabExample", "dotCrabExample\dotCrabExample.csproj", "{57FBC299-EF92-4472-9585-20ACFFD67A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42BC472-AE07-4357-84D9-6D0F4F1CC496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42BC472-AE07-4357-84D9-6D0F4F1CC496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42BC472-AE07-4357-84D9-6D0F4F1CC496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42BC472-AE07-4357-84D9-6D0F4F1CC496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FBC299-EF92-4472-9585-20ACFFD67A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FBC299-EF92-4472-9585-20ACFFD67A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FBC299-EF92-4472-9585-20ACFFD67A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FBC299-EF92-4472-9585-20ACFFD67A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
