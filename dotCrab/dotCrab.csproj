@@ -4,6 +4,16 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>dotCrab</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>asoji</Authors>
+        <Title>dotCrab</Title>
+        <PackageDescription>devOS' Crab in the Code copypaste, but make it a dumb library</PackageDescription>
+        <PackageProjectUrl>https://www.nuget.org/packages/dotCrab</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/devOS-Sanity-Edition/dotCrab</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>crab;net6</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
 </Project>

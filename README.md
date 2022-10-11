@@ -1,9 +1,11 @@
 # dotCrab
 
-where has my life gone so wrong
+devOS' Crab in the Code, but as one massive string. No seriously, that's it.
 
 ## Usage
 here's a console example idk what to tell u man it's just one giant string, go look [here](dotCrabExample) maybe
+
+also just `dotnet add package dotCrab` or grab from [NuGet](https://www.nuget.org/packages/dotCrab)
 ```csharp
 using dotCrab;
 
